@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="_4_for_each_correct_answer">+4 for each correct answer</string>
+    <string name="_1_for_wrong_each_wrong_answer">-1 for wrong each wrong answer</string>
+    <string name="questioin_1">questioin 1</string>
+    <string name="clear_selection">clear selection</string>
+    <string name="next">Next</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="radiobutton3">RadioButton</string>
+    <string name="radiobutton4">RadioButton</string>
+    <string name="get_answers">Get Answers</string>
+    <string name="re_quiz">re-quiz</string>
+    <string name="your_score_out_of_20_is">Your score out of 20 is</string>
+</resources>
